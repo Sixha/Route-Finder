@@ -1,2 +1,4 @@
 # Route-Finder
+Route Finder is a program that calculates the shortest route between two points in the real world. In the "main" file you will find the functions of the program. If you want to run the main variant of the program, you will have to run the "Graf OSMnx" file together with the "main". If you want to run the secondary variant of the program, you have to run the "Graf Abstracte" file together with the "main" file.
+
 Route Finder és un programa que et calcula la ruta més curta entre dos punts del món real. Al arxiu "main" trobareu les funcions del programa. Si es vol executar la variant principal del programa, s'haurà d'executar l'arxiu "Graf OSMnx" juntament amb el "main". Si es vol excecutar la variant secundària del programa, s'haurà d'executar l'arxiu "Graf Abstracte" juntament amb l'arxiu "main". 
